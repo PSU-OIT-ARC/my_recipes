@@ -1,0 +1,1 @@
+Ref: https://scotch.io/tutorials/building-a-universal-application-with-nuxtjs-and-django
